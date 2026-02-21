@@ -34,8 +34,9 @@ const gameData = [
     { image: "33", answer: "the smell of a tree" },
     { image: "34", answer: "a flower in spring" },
     { image: "35", answer: "overwhelming you" },
-    { image: "36", answer: "" },
-    { image: "37", answer: "" },
+    { image: "36", answer: "just before" },
+    { image: "37", answer: "it obliges you" },
+    { image: "38", answer: "to sneeze" },
 
 ];
 
